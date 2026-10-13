@@ -1,0 +1,7 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="midnight_dark">#FF0A0F14</color>
+    <color name="accent_indigo">#FF6366F1</color>
+    <color name="status_bar_color">#FF0A0F14</color>
+</resources>

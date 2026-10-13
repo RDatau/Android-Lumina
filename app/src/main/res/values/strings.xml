@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lumina AI</string>
+    <string name="app_desc">Teman ngobrol AI yang fleksibel dan seru</string>
+    <string name="connecting">CONNECTING...</string>
+    <string name="connected">TERHUBUNG</string>
+    <string name="speaking">SEDANG BERBICARA...</string>
+    <string name="listening">MENDENGARKAN...</string>
+</resources>
